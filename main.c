@@ -9,10 +9,15 @@ Initial Function2()
 {
  //Sample Code
 }
-Feature1 added()
+
+Security patch()
 {
-//feature1 added
+//security patch added
+
 }
 
-
+Feature1 added()
+{
+	//feature1 added
+	//}
 }
