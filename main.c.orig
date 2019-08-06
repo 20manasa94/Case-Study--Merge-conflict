@@ -10,15 +10,21 @@ Initial Function2()
  //Sample Code
 }
 <<<<<<< HEAD
-Feature1 added()
-{
-//feature1 added
-=======
+
 Security patch()
 {
 //security patch added
->>>>>>> master
+=======
+feature2 added()
+{
+//feature2 added
+}
+>>>>>>> feature2
+
 }
 
-
+Feature1 added()
+{
+	//feature1 added
+	//}
 }
